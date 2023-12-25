@@ -1,0 +1,4 @@
+﻿  CBanco.cpp
+C:\LTHDT\domin\domin\CBanco.cpp(19,42): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\LTHDT\domin\domin\CBanco.cpp(20,42): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  domin.vcxproj -> C:\LTHDT\domin\x64\Debug\domin.exe
